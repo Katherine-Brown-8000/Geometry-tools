@@ -1,4 +1,4 @@
-# Perimeter of Circle
+# Perimeter of  aCircle
 # P = 2πr
 
 radius = float(input("Enter the radius of your circle: "))
